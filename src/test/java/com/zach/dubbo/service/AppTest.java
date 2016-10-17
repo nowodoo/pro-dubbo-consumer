@@ -1,4 +1,4 @@
-package com.zach;
+package com.zach.dubbo.service;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
